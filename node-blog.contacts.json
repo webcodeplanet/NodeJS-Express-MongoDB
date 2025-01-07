@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "677c0365b348502983fe0fce"
+  },
+  "name": "Youtube",
+  "link": "http://youtube.com/"
+},
+{
+  "_id": {
+    "$oid": "677c03bbb348502983fe0fcf"
+  },
+  "name": "GitHub",
+  "link": "http://github.com/"
+}]

@@ -1,0 +1,24 @@
+{
+  "name": "lesson11",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.9.3",
+    "morgan": "^1.10.0"
+  },
+  "engines": {
+    "node": "22.12.0"
+  }
+
+}
